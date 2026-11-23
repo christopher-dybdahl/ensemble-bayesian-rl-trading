@@ -37,8 +37,8 @@ The ensemble improves risk-adjusted performance over the index and over the
 classic switch-based FinRL ensemble, with the best Calmar ratio and a
 smaller maximum drawdown than buy-and-hold. It does **not** beat
 equal-weight buy-and-hold on Sharpe over this strongly trending test window,
-an honest reminder of how hard that benchmark is for daily-rebalanced RL
-strategies after a bull run.
+which shows how hard that benchmark is for daily-rebalanced strategies in a
+trending market.
 
 ![Out-of-sample portfolio value](img/portfolio_value.png)
 
